@@ -1,0 +1,4 @@
+# Ignorar configuraciones locales o sensibles
+config/db.php
+.DS_Store
+Thumbs.db
